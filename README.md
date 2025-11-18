@@ -15,8 +15,8 @@ Given the prominence of AI technologies, I am deeply invested in the future of e
 - Task Management System
 
 # Current Projects:
-- [GreenPath] (https://github.com/xusamson8/GreenPath)
-- [Flavor Feed] (https://github.com/jonehthan/Flavor-Feed)
+[GreenPath](https://github.com/xusamson8/GreenPath)
+[Flavor Feed](https://github.com/jonehthan/Flavor-Feed)
 <!---
 jonehthan/jonehthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
